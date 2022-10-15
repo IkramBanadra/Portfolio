@@ -1,0 +1,28 @@
+ img{
+
+    border-radius:50px ;
+    height: 200px;
+} 
+h1{
+
+background-color: cadetblue;
+border-radius: 10px;
+text-align: center;
+}
+
+
+ a{
+    text-decoration:none;
+    padding: 5px;
+    border-radius: 5px ;
+    color: black;
+    border: 3px solid green;
+ }
+
+ a:hover{
+
+background-color: red;
+
+ }
+
+
